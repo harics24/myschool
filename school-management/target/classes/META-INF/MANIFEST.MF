@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: school-management
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hperabattula
+Implementation-Vendor-Id: com.febonos.school
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/school-management
+Created-By: Maven Integration for Eclipse
+
